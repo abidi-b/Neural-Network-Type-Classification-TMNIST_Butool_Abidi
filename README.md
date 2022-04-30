@@ -1,1 +1,1 @@
-# Neural-Network-Type-Classification-TMNIST_Butool_Abidi
+# Neural-Network-Type-Classification-_Typography MNIST (TMNIST) with 94 characters
